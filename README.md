@@ -157,10 +157,10 @@ As principais configurações do projeto podem ser ajustadas no arquivo `config.
 
 ## 👤 Contato
 
-Antônio Libarato RM558014
-Renan de França Gonçalves RM558413
-Thiago Almança RM558108
+* Antônio Libarato RM558014
+* Renan de França Gonçalves RM558413
+* Thiago Almança RM558108
 
-Link do Projeto: https://github.com/seu-usuario/AutomationQueimadasAndAlerts
-```
+
+
 
