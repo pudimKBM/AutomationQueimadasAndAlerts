@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+
+queimadas_monitor/output_data/raw/
+queimadas_monitor/output_data/reports/
