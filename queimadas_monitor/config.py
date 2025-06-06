@@ -10,11 +10,6 @@ CSV_10MIN_BASE_URL = "https://dataserver-coids.inpe.br/queimadas/queimadas/focos
 # Diretório para salvar os dados brutos (CSVs baixados)
 RAW_DATA_DIR = "output_data/raw/"
 
-# Diretório para salvar os relatórios gerados
-REPORTS_DIR = "output_data/reports/"
-
-# Diretório para salvar gráficos (se formos gerar)
-CHARTS_DIR = "output_data/charts/"
 
 # --- Critérios de Risco para Queimadas ---
 RISK_FRP_THRESHOLD = 75.0  # Exemplo: FRP em MW acima do qual o foco é considerado de alto risco inicial
